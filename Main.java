@@ -79,6 +79,7 @@ public class Main {
                                     }
                                     break;
                                 case "logout":
+                                    System.out.println("Bye! see you again later");
                                     break;
                             }
                             if (option.equals("logout")) {
@@ -115,6 +116,7 @@ public class Main {
                                     System.out.println("Add course succesful");
                                     break;
                                 case "logout":
+                                    System.out.println("Bye! see you again later");
                                     break;
                             }
                             if (option.equals("logout")) {
